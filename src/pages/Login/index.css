@@ -1,0 +1,17 @@
+.card{
+    width: 30%;
+    height: 30%;
+    border-radius: solid gray 5px;
+    margin: 0px auto;
+    background-color: aqua;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    margin-top: 40px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
