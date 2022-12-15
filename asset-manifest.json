@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/navabrind-task/static/css/main.d1e55310.css",
+    "main.js": "/github.io/navabrind-task/static/js/main.378ba8c2.js",
+    "index.html": "/github.io/navabrind-task/index.html",
+    "main.d1e55310.css.map": "/github.io/navabrind-task/static/css/main.d1e55310.css.map",
+    "main.378ba8c2.js.map": "/github.io/navabrind-task/static/js/main.378ba8c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e55310.css",
+    "static/js/main.378ba8c2.js"
+  ]
+}
