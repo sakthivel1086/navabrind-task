@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
       <Routes>
-        <Route path="/navabrind-task" element={<Login />}/>
+        <Route path="https://sakthivel1086.github.io/navabrind-task/" element={<Login />}/>
           <Route path="/home" element={<HOME />} />
           <Route path="/profile/:id" element={<PROFILE />} />
           <Route path="/signup" element={<SignUp />} />
